@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    background-image: url("coracao.png");
+    background-repeat: no-repeat;
+    background-size: 800px;
+    background-position: 350px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
